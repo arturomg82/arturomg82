@@ -68,13 +68,15 @@ Data scientist with expertise in artificial intelligence (AI), deep learning, an
   
 </div>
 
-### ML frameworks & Scientific programming
+### ML frameworks, scientific programming, computer vision
 
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" width="50" alt="Tensorflow" tille="Tensorflow">
 
@@ -99,9 +101,11 @@ Data scientist with expertise in artificial intelligence (AI), deep learning, an
 
 </div>
 
-### MLOps (Cloud, version control, databases, containers)
+### MLOps (Cloud, version control, databases, containers, dependency management)
 
 <div align="center">
+
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
   
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png" width="50" alt="BitBucket" title="BitBucket">
   
